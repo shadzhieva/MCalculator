@@ -1,0 +1,8 @@
+/.vs
+/.vscode
+/*.suo
+bin/
+obj/
+bower_components/
+/*.user
+/*.csproj.user
